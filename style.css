@@ -1,0 +1,219 @@
+.entry-title {
+text-transform: uppercase;
+letter-spacing:2px;
+font-weight:800;
+margin: 0px auto;
+font-size: 25px;
+color: rgba(148,187,233,1);
+margin-top: -25px;
+margin-bottom: 30px;
+font-family: herculanum;
+}
+.buttonloc {
+  margin-top: 25px;
+}
+.buttonclass {
+font-size: 200%;
+font-family:georgia;
+color: black;
+background-color: lightblue;
+padding: 10px;
+margin: 15px;
+border-radius: 35%;
+border-color: red;
+border-bottom-color: black;
+border-right-color: black;
+}
+.buttonclass:hover {
+  color: white;
+  background-color: grey;
+  border-color: black;
+  border-bottom-color: red;
+  border-right-color: red;
+  cursor: pointer;
+}
+.introtext {
+  color: white;
+  font-style: italic;
+  margin-top: 40px;
+}
+.purpletext {color: purple;}
+.redtext {color: red;}
+.whitetext {color: white;}
+.lightbluetext {color: lightblue;}
+
+.background {
+background: linear-gradient(120deg, rgba(150,74,102,1) 20%, rgba(148,187,233,1) 100%);
+text-align: center;
+border-left:  1px solid white;
+padding: 12px;
+margin: 20px;
+border-right:  1px solid white;
+
+
+
+}
+h6 {
+  background-position: left;
+  color: black;
+}
+h5{
+  text-align: left;
+  color: black;
+}
+.titlebox{
+  width: 115px;
+  height: 56px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-top: 1.8px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1.8px solid black;
+  color: #FAF9A0;
+  font-size: 17px;
+  transition: all 5s ease-in-out;
+  font-family: cursive;
+  margin-top: -10px;
+}
+.titledisc {
+  background: transparent;
+  border:none;
+  outline: none;
+  color: white;
+  font-size: 9.5px;
+  margin-left: 5px;
+  margin-top: -35px;
+  font-family: monospace;
+}
+.contactlink {
+  color:#FAF9A0;
+}
+.gametext {
+  font-size: 20px;
+  font-family:sans-serif;
+  color: lightblue;
+  margin-left: 15px;
+  cursor: default;
+}
+.gametext1 {
+  font-size: 20px;
+  font-family:georgia;
+  color: lightblue;
+  height: 50px;
+  width: 250px;
+  background-color: transparent;
+  text-align: center;
+  margin-bottom: 15px;
+  color: lightblue;
+  border-color: white;
+  cursor: default;
+}
+.gametext2 {
+  font-family:sans-serif;
+  color: gold;
+  height: 50;
+  width: 65;
+  margin-top: 4px;
+  background-color: transparent;
+  font-size: 17px;
+  text-align: center;
+  font-family: georgia;
+  border-radius: 40%;
+
+}
+.guessbutton {
+  border-radius: 50%;
+  height: 58px;
+  width: 58px;
+  font-size: 14px;
+  text-align: center;
+  margin-left: 35px;
+  background-color: transparent;
+  color: lightblue;
+  border-top-color: yellow;
+  border-left-color: yellow;
+  border-right-color: lightblue;
+  border-bottom-color: lightblue;
+}
+.guessbutton:hover {
+  color: yellow;
+  border-top-color: lightblue;
+  border-left-color: lightblue;
+  border-right-color: yellow;
+  border-bottom-color: yellow;
+  cursor: crosshair;
+}
+.game1 {
+  float: left;
+  margin-left: 10%;
+}
+.gamebox1 {
+  width: 140px;
+  height: 30px;
+  text-align: center;
+  font-size: 14px;
+  background-color: transparent;
+  color: pink;
+}
+.gameboxtext {
+  background-color: transparent;
+  color: lightblue;
+  font-family: georgia;
+  text-align: center;
+  font-size: 14px;
+  cursor: default;
+}
+.gamebuttonstyle {
+  border-radius: 25%;
+  background-color: transparent;
+  color: lightblue;
+  margin-left: 20px;
+  border-top-color: pink;
+  border-left-color: lightblue;
+  border-right-color: lightblue;
+  border-bottom-color: lightblue;
+  width: 80px;
+  height: 35px;
+  font-size: 12px;
+}
+.gamebuttonstyle:hover {
+  color: pink;
+  border-top-color: lightblue;
+  border-left-color: lightblue;
+  border-right-color: lightblue;
+  border-bottom-color: pink;
+  cursor: crosshair;
+}
+.hrgame {
+  width: 90%;
+  color: white;
+  border: dashed;
+
+}
+.socialslist {
+  color:limegreen;
+  font-size: 22px;
+  text-align: left;
+}
+.socials {
+  color: darkblue;
+  font-size: 19px;
+}
+.socials:hover {
+  color:limegreen;
+  font-weight: 900;
+}
+.socialslist:hover{
+  color:darkblue;
+}
+.socialstitle {
+  color: limegreen;
+  font-size: 19px;
+  text-align: left;
+  margin-left: 15px;
+  font-family: georgia;
+  margin-bottom: -15px;
+  font-style: oblique;
+}
