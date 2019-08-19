@@ -16,7 +16,7 @@ font-family: herculanum;
 font-size: 280%;
 font-family:georgia;
 color: black;
-background-color: lightblue;
+background-color: rgba(148,187,233,1);
 padding: 10px;
 margin: 15px;
 border-radius: 35%;
@@ -88,7 +88,10 @@ h5{
   font-family: monospace;
 }
 .contactlink {
-  color:#FAF9A0;
+  color:rgba(148,187,233,1);
+}
+.contactlink:hover {
+  font-weight: 800;
 }
 .gametitles{
   color: white;
