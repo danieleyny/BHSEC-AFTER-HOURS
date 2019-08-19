@@ -13,7 +13,7 @@ font-family: herculanum;
   margin-top: 25px;
 }
 .buttonclass {
-font-size: 200%;
+font-size: 280%;
 font-family:georgia;
 color: black;
 background-color: lightblue;
@@ -89,6 +89,11 @@ h5{
 }
 .contactlink {
   color:#FAF9A0;
+}
+.gametitles{
+  color: white;
+  font-size: 19px;
+
 }
 .gametext {
   font-size: 20px;
@@ -193,27 +198,31 @@ h5{
 
 }
 .socialslist {
-  color:limegreen;
+  color:lightblue;
   font-size: 22px;
   text-align: left;
 }
 .socials {
-  color: darkblue;
+  color: lightblue;
   font-size: 19px;
 }
 .socials:hover {
-  color:limegreen;
+  color: white;
   font-weight: 900;
 }
 .socialslist:hover{
-  color:darkblue;
+  color:gold;
 }
 .socialstitle {
-  color: limegreen;
+  color: gold;
   font-size: 19px;
   text-align: left;
   margin-left: 15px;
   font-family: georgia;
   margin-bottom: -15px;
   font-style: oblique;
+}
+/* Cursor */
+.txt-type > .txt {
+  border-right: 0.2rem solid black;
 }
