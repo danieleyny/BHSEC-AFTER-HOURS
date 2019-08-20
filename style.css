@@ -229,3 +229,13 @@ h5{
 .txt-type > .txt {
   border-right: 0.2rem solid black;
 }
+.moreinfo {
+  font-size: 17px;
+  color: #5e5d53;
+  width: 1000px;
+  margin-left: 30px;
+}
+.infopagetitle {
+  font-size: 26px;
+  font-family: herculanum;
+  color:lightblue;
