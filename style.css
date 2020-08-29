@@ -43,7 +43,7 @@ border-right-color: black;
 .lightbluetext {color: lightblue;}
 
 .background {
-background: linear-gradient(120deg, rgba(150,74,102,1) 20%, rgba(148,187,233,1) 100%);
+background: linear-gradient(146deg, rgba(57,101,103,1) 8%, rgba(173,159,144,1) 28%, rgba(173,159,144,1) 60%, rgba(57,101,103,1) 97%);
 text-align: center;
 border-left:  1px solid white;
 padding: 12px;
